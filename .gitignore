@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated artifacts
+data/
+artifacts/
+models/
+checkpoints/
+logs/
+runs/
+outputs/
+*.h5
+*.keras
+*.ckpt
+*.pb
+*.tflite
+*.zip
+*.tar
+*.tar.gz
+
+# Local configuration
+.env
+.env.*
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+

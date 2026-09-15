@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tensorflow
+tensorflow-hub
+keras-tuner
+jupyter
+notebook
+
